@@ -5,7 +5,7 @@ aws_access_key_id = 'AKIAWY56YWJJ6Z5VR6FN'
 aws_secret_access_key = '99UWHW8OMxJHxPqDNABQ9nMdT1Klc8/oA4z1OVd9'
 
 # Optionally, you can specify a region
-region_name = 'us-west-2' # Example region
+region_name = 'us-east-2' # Example region
 
 # Create a session using your AWS credentials
 session = boto3.Session(
